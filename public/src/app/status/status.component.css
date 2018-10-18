@@ -1,0 +1,29 @@
+table{
+    border: 1px solid gray;
+    margin-bottom: 0px; 
+}
+
+button{
+    margin: 0 10px 10px 0;
+}
+
+.border{
+    border: 1px solid gray;
+}
+
+#one.playing{
+    color: white;
+    background-color: #28a745;
+    border: 1px solid #28a745;
+}
+
+#two.not{
+    color: white;
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+}
+
+#three.undecided{
+    background-color: #ffc107;
+    border: 1px solid #ffc107;
+}
